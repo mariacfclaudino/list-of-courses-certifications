@@ -11,9 +11,9 @@ Reserved repository to list a little of my academic life.
 Degree of Systems Analysis and Development - Mackenzie University (Brazil) 2024-2026 (2,5 years).
 
 # Languages 📍
-- Portuguese: Native speaker, I am Brazilian.:brazil:
-- English: Full professional proficiency.:gb:
-- Spanish: Elementary proficiency.:es:
+- Portuguese: Native speaker, I am Brazilian.
+- English: Full professional proficiency.
+- Spanish: Elementary proficiency.
 
 # Courses ✏️
 Below is a list of the courses I completed. There are currently X courses with a total of X hours.
