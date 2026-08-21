@@ -13,14 +13,15 @@ Degree of Systems Analysis and Development - Mackenzie University (Brazil) 2024-
 # Languages 📍
 - Portuguese: Native speaker, I am Brazilian.
 - English: Full professional proficiency.
-- Spanish: Elementary proficiency.
+
 
 # Courses ✏️
 Below is a list of the courses I completed. There are currently X courses with a total of X hours.
 
 
 Cloud Computing
-  - Google Cloud Computing Foundations Certificate 
+  - Google Cloud Computing Foundations Certificate
+  - AWS Developer Associate Certificate 
 
 Machine Learning
  - Machine Learning with Tree-Based Models in Python
